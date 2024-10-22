@@ -52,11 +52,11 @@ O PROJETO DEVERÁ SER DESENVOLVIDO EM C# CONSOLE APPLICATION, OFERECENDO AS SEGU
 --------------------------------------
 | 0. Sair                            | </br>
 | 1. Adicionar livro                 | </br>
-| 2. Pesquisar livro (sintético)*    |
-| 3. Pesquisar livro (analítico)**   |
-| 4. Adicionar exemplar              |
-| 5. Registrar empréstimo            |
-| 6. Registrar devolução             |
+| 2. Pesquisar livro (sintético)*    | </br>
+| 3. Pesquisar livro (analítico)**   | </br>
+| 4. Adicionar exemplar              | </br>
+| 5. Registrar empréstimo            | </br>
+| 6. Registrar devolução             | </br>
 
 
 * . Informar dos dados básicos do livro com as quantidades: total de exemplares, de exemplares disponíveis, de empréstimos e o respectivo percentual de disponibilidade do título
