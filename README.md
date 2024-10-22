@@ -50,8 +50,8 @@ UTILIZE O DIAGRAMA DE CLASSES APRESENTADO À SEGUIR PARA DESENVOLVER UMA APLICA�
 O PROJETO DEVERÁ SER DESENVOLVIDO EM C# CONSOLE APPLICATION, OFERECENDO AS SEGUINTES OPÇÕES PARA O USUÁRIO:
 
 --------------------------------------
-| 0. Sair                            |
-| 1. Adicionar livro                 |
+| 0. Sair                            | </br>
+| 1. Adicionar livro                 | </br>
 | 2. Pesquisar livro (sintético)*    |
 | 3. Pesquisar livro (analítico)**   |
 | 4. Adicionar exemplar              |
