@@ -52,7 +52,7 @@ O PROJETO DEVERÁ SER DESENVOLVIDO EM C# CONSOLE APPLICATION, OFERECENDO AS SEGU
 --------------------------------------
 | 0. Sair                            | </br>
 | 1. Adicionar livro                 | </br>
-| 2. Pesquisar livro (sintético)*    | </br>
+| 2. Pesquisar livro (sintético)"*"    | </br>
 | 3. Pesquisar livro (analítico)**   | </br>
 | 4. Adicionar exemplar              | </br>
 | 5. Registrar empréstimo            | </br>
